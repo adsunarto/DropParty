@@ -1,0 +1,23 @@
+{
+  "name": "dropparty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsunarto/DropParty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsunarto/DropParty/issues"
+  },
+  "homepage": "https://github.com/adsunarto/DropParty#readme"
+}
